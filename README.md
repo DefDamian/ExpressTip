@@ -40,11 +40,11 @@ Easily split bills, customize your tip experience, and save your favorite calcul
 
 ---
 
-## 📸 Screenshots
+🚀 **Try ExpressTip Beta!**
+[Join on TestFlight](https://testflight.apple.com/join/xUnWCzBh)
 
-| Onboarding | Main Calculator | Save Prompt | History |
-|:---:|:---:|:---:|:---:|
-| ![](onboarding.png) | ![](main.png) | ![](saveprompt.png) | ![](history.png) |
+ExpressTip is a modern, elegant tip calculator for iOS—split bills, track your tip history, and more. Feedback is welcome!
+
 
 ---
 
